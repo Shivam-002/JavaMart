@@ -1,0 +1,690 @@
+[
+  {
+    "foodId": 1,
+    "foodName": "Tomato",
+    "rating": 4.5,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 2,
+    "foodName": "Potato",
+    "rating": 4.2,
+    "price": 1.49,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 3,
+    "foodName": "Lettuce",
+    "rating": 3.5,
+    "price": 0.89,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 4,
+    "foodName": "Carrot",
+    "rating": 4.7,
+    "price": 0.79,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 5,
+    "foodName": "Mushroom",
+    "rating": 4.2,
+    "price": 1.09,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 6,
+    "foodName": "Green Beans",
+    "rating": 4.8,
+    "price": 0.79,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 7,
+    "foodName": "Onion",
+    "rating": 4.5,
+    "price": 0.69,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 8,
+    "foodName": "Brussels Sprouts",
+    "rating": 3.2,
+    "price": 1.09,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 9,
+    "foodName": "Asparagus",
+    "rating": 3.5,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 10,
+    "foodName": "Corn",
+    "rating": 3.9,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 11,
+    "foodName": "Celery",
+    "rating": 4.8,
+    "price": 0.89,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 12,
+    "foodName": "Garlic",
+    "rating": 4.7,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+
+  {
+    "foodId": 13,
+    "foodName": "Broccoli",
+    "rating": 4.3,
+    "price": 1.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 14,
+    "foodName": "Cauliflower",
+    "rating": 4.6,
+    "price": 1.59,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 15,
+    "foodName": "Cucumber",
+    "rating": 4.1,
+    "price": 0.69,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 16,
+    "foodName": "Pepper",
+    "rating": 4.8,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 17,
+    "foodName": "Zucchini",
+    "rating": 4.4,
+    "price": 1.49,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 18,
+    "foodName": "Eggplant",
+    "rating": 4.9,
+    "price": 1.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 19,
+    "foodName": "Beetroot",
+    "rating": 4.5,
+    "price": 0.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 20,
+    "foodName": "Radish",
+    "rating": 4.3,
+    "price": 0.79,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 21,
+    "foodName": "Spinach",
+    "rating": 4.7,
+    "price": 1.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 22,
+    "foodName": "Kale",
+    "rating": 4.8,
+    "price": 1.59,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 25,
+    "foodName": "Sweet Potatoes",
+    "rating": 3.2,
+    "price": 0.87,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 26,
+    "foodName": "Okra",
+    "rating": 4.6,
+    "price": 0.92,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 27,
+    "foodName": "Parsnips",
+    "rating": 3.3,
+    "price": 0.86,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 28,
+    "foodName": "Artichokes",
+    "rating": 4.2,
+    "price": 3.1,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 29,
+    "foodName": "Bok Choy",
+    "rating": 4.1,
+    "price": 2.3,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 30,
+    "foodName": "Chard",
+    "rating": 4.0,
+    "price": 2.15,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 31,
+    "foodName": "Collard Greens",
+    "rating": 3.9,
+    "price": 2.0,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 32,
+    "foodName": "Fennel",
+    "rating": 4.2,
+    "price": 2.25,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 33,
+    "foodName": "Ginger",
+    "rating": 4.3,
+    "price": 2.3,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 34,
+    "foodName": "Green Onions",
+    "rating": 3.8,
+    "price": 1.6,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 35,
+    "foodName": "Jicama",
+    "rating": 4.1,
+    "price": 2.2,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 36,
+    "foodName": "Leeks",
+    "rating": 4.0,
+    "price": 2.1,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 37,
+    "foodName": "Peas",
+    "rating": 3.9,
+    "price": 2.15,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 38,
+    "foodName": "Rhubarb",
+    "rating": 3.8,
+    "price": 2.05,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 39,
+    "foodName": "Taro",
+    "rating": 3.7,
+    "price": 2.1,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 40,
+    "foodName": "Snow Peas",
+    "rating": 4.3,
+    "price": 3.0,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 41,
+    "foodName": "Watercress",
+    "rating": 4.5,
+    "price": 3.0,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 42,
+    "foodName": "Kohlrabi",
+    "rating": 3.9,
+    "price": 2.25,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 43,
+    "foodName": "Jerusalem Artichoke",
+    "rating": 4.3,
+    "price": 3.5,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 44,
+    "foodName": "Water Chestnut",
+    "rating": 3.9,
+    "price": 2.75,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 45,
+    "foodName": "Hearts of Palm",
+    "rating": 4.0,
+    "price": 4.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 46,
+    "foodName": "Mung Bean Sprouts",
+    "rating": 4.1,
+    "price": 1.25,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 47,
+    "foodName": "Snap Peas",
+    "rating": 4.3,
+    "price": 2.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 48,
+    "foodName": "Delicata Squash",
+    "rating": 4.2,
+    "price": 3.25,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 49,
+    "foodName": "Fiddlehead Ferns",
+    "rating": 4.4,
+    "price": 4.99,
+    "foodType": "Vegetable"
+  },
+  {
+    "foodId": 50,
+    "foodName": "Celeriac",
+    "rating": 4.2,
+    "price": 3.5,
+    "foodType": "Vegetable"
+  },
+
+  {
+    "foodId": 101,
+    "foodName": "Apple",
+    "rating": 4,
+    "price": 1.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 102,
+    "foodName": "Banana",
+    "rating": 3,
+    "price": 0.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 103,
+    "foodName": "Cherry",
+    "rating": 4,
+    "price": 2.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 104,
+    "foodName": "Grapes",
+    "rating": 5,
+    "price": 3.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 105,
+    "foodName": "Kiwi",
+    "rating": 4,
+    "price": 1.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 106,
+    "foodName": "Lemon",
+    "rating": 3,
+    "price": 0.75,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 107,
+    "foodName": "Mango",
+    "rating": 5,
+    "price": 2.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 108,
+    "foodName": "Orange",
+    "rating": 4,
+    "price": 1.25,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 109,
+    "foodName": "Peach",
+    "rating": 5,
+    "price": 2.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 110,
+    "foodName": "Pear",
+    "rating": 4,
+    "price": 1.75,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 111,
+    "foodName": "Pineapple",
+    "rating": 5,
+    "price": 3.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 112,
+    "foodName": "Strawberry",
+    "rating": 4,
+    "price": 2.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 113,
+    "foodName": "Watermelon",
+    "rating": 5,
+    "price": 4.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 114,
+    "foodName": "Blueberries",
+    "rating": 4,
+    "price": 2.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 115,
+    "foodName": "Blackberries",
+    "rating": 4,
+    "price": 3.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 116,
+    "foodName": "Guava",
+    "price": 2.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 117,
+    "foodName": "Lemon",
+    "price": 1.5,
+    "rating": 3,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 118,
+    "foodName": "Lime",
+    "price": 2.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 119,
+    "foodName": "Starfruit",
+    "price": 3.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 120,
+    "foodName": "Gooseberry",
+    "price": 2.5,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 121,
+    "foodName": "Blackcurrant",
+    "price": 3.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 122,
+    "foodName": "Cantaloupe",
+    "price": 3.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 123,
+    "foodName": "Honeydew",
+    "price": 3.0,
+    "rating": 4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 124,
+    "foodName": "Snake Fruit",
+    "price": 1.15,
+    "rating": 3.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 125,
+    "foodName": "Butternut Squash",
+    "rating": 4.2,
+    "price": 0.79,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 126,
+    "foodName": "Pumpkin",
+    "rating": 4.6,
+    "price": 0.89,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 127,
+    "foodName": "Bell Peppers",
+    "rating": 3.9,
+    "price": 1.6,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 128,
+    "foodName": "Raspberries",
+    "price": 3.0,
+    "rating": 4.6,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 129,
+    "foodName": "Apricot",
+    "price": 1.25,
+    "rating": 4.1,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 130,
+    "foodName": "Plum",
+    "price": 0.75,
+    "rating": 4.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 131,
+    "foodName": "Passion Fruit",
+    "price": 1.75,
+    "rating": 4.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 132,
+    "foodName": "Dragon Fruit",
+    "price": 4.5,
+    "rating": 4.7,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 133,
+    "foodName": "Pomegranate",
+    "price": 3.75,
+    "rating": 4.6,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 134,
+    "foodName": "Cranberries",
+    "price": 2.0,
+    "rating": 4.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 135,
+    "foodName": "Currants",
+    "price": 2.25,
+    "rating": 4.4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 136,
+    "foodName": "Lychee",
+    "price": 5.0,
+    "rating": 4.8,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 137,
+    "foodName": "Mandarin",
+    "price": 0.5,
+    "rating": 4.1,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 138,
+    "foodName": "Nectarine",
+    "price": 1.25,
+    "rating": 4.3,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 139,
+    "foodName": "Persimmon",
+    "price": 2.0,
+    "rating": 4.2,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 140,
+    "foodName": "Rambutan",
+    "price": 4.5,
+    "rating": 4.7,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 141,
+    "foodName": "Tangerine",
+    "price": 0.75,
+    "rating": 4.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 142,
+    "foodName": "Bilberry",
+    "price": 3.5,
+    "rating": 4.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 143,
+    "foodName": "Cherimoya",
+    "price": 5.5,
+    "rating": 4.9,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 144,
+    "foodName": "Feijoa",
+    "price": 4.0,
+    "rating": 4.4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 145,
+    "foodName": "Papaya",
+    "price": 3.25,
+    "rating": 4.6,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 146,
+    "foodName": "Redcurrant",
+    "price": 2.25,
+    "rating": 4.0,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 147,
+    "foodName": "Quince",
+    "price": 4.0,
+    "rating": 4.5,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 148,
+    "foodName": "Ugli Fruit",
+    "price": 2.0,
+    "rating": 4.4,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 149,
+    "foodName": "White Currant",
+    "price": 2.25,
+    "rating": 4.1,
+    "foodType": "Fruit"
+  },
+  {
+    "foodId": 150,
+    "foodName": "Mulberry",
+    "price": 2.5,
+    "rating": 4.1,
+    "foodType": "Fruit"
+  }
+]
